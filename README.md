@@ -8,6 +8,7 @@
 * [Alfred](http://www.alfredapp.com/) Search and launcher (Paid add ons)
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) Window managment (free trial)
 * [Spectacle](http://spectacleapp.com/) Window managment (free)
+* [Hyperdock](http://hyperdock.bahoom.com/) Dock extras
 * [Karabiner](https://pqrs.org/osx/karabiner/) Keyboard remapping
 * [Synergy](http://synergy-project.org/)
 * [iStatMenus](http://bjango.com/mac/istatmenus/) System stats in the menubar
