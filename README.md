@@ -24,7 +24,7 @@
 * [Redis Desktop Manager](http://redisdesktop.com/) Redis GUI
 
 ## VPN
-* [Viscosity]http://www.sparklabs.com/viscosity/) Paid openvpn client
+* [Viscosity](http://www.sparklabs.com/viscosity/) Paid openvpn client
 * [Tunnelblick](https://code.google.com/p/tunnelblick/) Free openvpn client
 
 ## Tools
