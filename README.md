@@ -12,6 +12,8 @@
 * [Karabiner](https://pqrs.org/osx/karabiner/) Keyboard remapping
 * [Synergy](http://synergy-project.org/)
 * [iStatMenus](http://bjango.com/mac/istatmenus/) System stats in the menubar
+* [Better touch tool](http://www.bettertouchtool.net/)
+* [Glimmerblocker](http://glimmerblocker.org/)
 
 ## Chat
 * [Colloquy](http://colloquy.info/) IRC
