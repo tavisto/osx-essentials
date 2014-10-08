@@ -39,3 +39,7 @@
 ## Other fixes
 * [Fix Search Domain](https://coderwall.com/p/fzcyha)
 * [Big list of random fixes](https://github.com/tavisto/dotfiles/blob/master/bin/osx-setup.sh)
+
+# iTerm2 Url Handler setup instructions
+[ssh](https://github.com/tavisto/osx-essentials/blob/master/ssh-url-handler.md)
+[man](https://github.com/tavisto/osx-essentials/blob/master/man-page-handler.md)
