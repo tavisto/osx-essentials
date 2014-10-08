@@ -23,6 +23,7 @@
 * [Virtualbox](https://www.virtualbox.org/) Virtualization
 * [Vagrant](http://www.vagrantup.com/)
 * [Redis Desktop Manager](http://redisdesktop.com/) Redis GUI
+* [Sublime Text](http://www.sublimetext.com/) Text editor (free trial, paid)
 
 ## VPN
 * [Viscosity](http://www.sparklabs.com/viscosity/) Paid openvpn client
