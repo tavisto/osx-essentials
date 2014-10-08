@@ -9,11 +9,14 @@
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) Window managment (free trial)
 * [Spectacle](http://spectacleapp.com/) Window managment (free)
 * [Hyperdock](http://hyperdock.bahoom.com/) Dock extras
-* [Karabiner](https://pqrs.org/osx/karabiner/) Keyboard remapping
-* [Synergy](http://synergy-project.org/)
 * [iStatMenus](http://bjango.com/mac/istatmenus/) System stats in the menubar
+* [Glimmerblocker](http://glimmerblocker.org/) System wide ad blocking
+
+## Mouse / Keyboard
 * [Better touch tool](http://www.bettertouchtool.net/)
-* [Glimmerblocker](http://glimmerblocker.org/)
+* [Synergy](http://synergy-project.org/)
+* [Karabiner](https://pqrs.org/osx/karabiner/) Keyboard remapping
+* [Smoothmouse](http://smoothmouse.com/) Scroll and mouse lag fixes
 
 ## Chat
 * [Colloquy](http://colloquy.info/) IRC
