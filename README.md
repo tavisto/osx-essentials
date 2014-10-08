@@ -2,25 +2,26 @@
 
 ## Terminal tools
 
-* [iterm2](http://iterm2.com/)
-* [Homebrew](http://brew.sh/)
+* [iterm2](http://iterm2.com/) Terminal
+* [Homebrew](http://brew.sh/) Package manager
 
 ## Productivity
 * [Alfred](http://www.alfredapp.com/) Search and launcher (Paid add ons)
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) Window managment (free trial)
 * [Karabiner](https://pqrs.org/osx/karabiner/) Keyboard remapping
 * [Synergy](http://synergy-project.org/)
-* [iStatMenus](http://bjango.com/mac/istatmenus/) System stats in the menubar 
+* [iStatMenus](http://bjango.com/mac/istatmenus/) System stats in the menubar
 
 ## Chat
 * [Colloquy](http://colloquy.info/) IRC
+* [Textual](http://www.codeux.com/textual/) IRC (paid)
 * [Adium](https://www.adium.im/) Chat
 
 ## Development Tools
 * [SequelPro](http://www.sequelpro.com/) Datbases
 * [Chicken of the VNC](http://sourceforge.net/projects/chicken/) VNC Client
 * [Virtualbox](https://www.virtualbox.org/) Virtualization
-* [Vagrant](http://www.vagrantup.com/) 
+* [Vagrant](http://www.vagrantup.com/)
 * [Redis Desktop Manager](http://redisdesktop.com/) Redis GUI
 
 ## VPN
@@ -30,3 +31,7 @@
 ## Tools
 * [Unarchiver](http://unarchiver.c3.cx/) Handle all archive formats
 * [Cyberduck](https://cyberduck.io/) FTP
+
+# Password managers
+* [1Password](https://agilebits.com/onepassword)
+* [LastPass](https://lastpass.com/)
