@@ -1,7 +1,6 @@
 # Essentials Needed for Setting up OS X As a development environment
 
 ## Terminal tools
-
 * [iterm2](http://iterm2.com/) Terminal
 * [Homebrew](http://brew.sh/) Package manager
 
@@ -32,6 +31,10 @@
 * [Unarchiver](http://unarchiver.c3.cx/) Handle all archive formats
 * [Cyberduck](https://cyberduck.io/) FTP
 
-# Password managers
+## Password managers
 * [1Password](https://agilebits.com/onepassword)
 * [LastPass](https://lastpass.com/)
+
+## Other fixes
+* [Fix Search Domain](https://coderwall.com/p/fzcyha)
+* [Big list of random fixes](https://github.com/tavisto/dotfiles/blob/master/bin/osx-setup.sh)
