@@ -38,6 +38,7 @@
 ## Tools
 * [Unarchiver](http://unarchiver.c3.cx/) Handle all archive formats
 * [Cyberduck](https://cyberduck.io/) FTP
+* [Transmit](https://panic.com/transmit) (S)FTP/S3 (free trial, paid)
 
 ## Password managers
 * [1Password](https://agilebits.com/onepassword)
